@@ -1,7 +1,7 @@
 [
     {
         "pattern": "hey[^\\s]*", 
-        "name": "greet"
+        "name": "greeting"
     }, 
     {
         "pattern": "[0-9]{5}", 
